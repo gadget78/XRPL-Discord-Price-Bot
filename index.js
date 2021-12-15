@@ -6,10 +6,10 @@ require('dotenv').config();
 const client = new Discord.Client({ intents: ["GUILDS"] });
 
 //******************* REPLACE THESE VARIABLES *********************/
-const TOKEN_CURRENCY_NAME = 'PARC'; //Name of currency
-const TOKEN_CURRENCY = '5041524300000000000000000000000000000000'; //40 character 160 bit hex currency code
-const TOKEN_ISSUER = 'rE42R1mbjGtMzzFTL5aqpbTrj3TDVq71jo'; //Token Issuer
-const AVATAR_URL = 'https://secure.gravatar.com/avatar/cdee4d5018167873d2b108d9600627b6?d=mm&s=173'; //Avatar URL
+const TOKEN_CURRENCY_NAME = 'AFA'; //Name of currency
+const TOKEN_CURRENCY = 'AFA'; //40 character 160 bit hex currency code
+const TOKEN_ISSUER = 'ratAFAXeeKaVuAxuWB9W1LuXD5m7Aqf2BH'; //Token Issuer
+const AVATAR_URL = 'https://secure.gravatar.com/avatar/C270F8CB93F1E0D895AB0DD40AE50F1F?d=mm&s=173'; //Avatar URL
 const UPDATE_FREQUENCY = 240; //Update Frequency in seconds
 //*************************************************************** */
 
