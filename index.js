@@ -9,7 +9,7 @@ const client = new Discord.Client({ intents: ["GUILDS"] });
 const TOKEN_CURRENCY_NAME = 'AFA'; //Name of currency
 const TOKEN_CURRENCY = 'AFA'; //40 character 160 bit hex currency code
 const TOKEN_ISSUER = 'ratAFAXeeKaVuAxuWB9W1LuXD5m7Aqf2BH'; //Token Issuer
-const AVATAR_URL = 'https://secure.gravatar.com/avatar/C270F8CB93F1E0D895AB0DD40AE50F1F?d=mm&s=173'; //Avatar URL
+const AVATAR_URL = 'https://secure.gravatar.com/avatar/c270f8cb93f1e0d895ab0dd40ae50f1f?d=mm&s=173'; //Avatar URL
 const UPDATE_FREQUENCY = 240; //Update Frequency in seconds
 //*************************************************************** */
 
